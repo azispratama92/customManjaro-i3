@@ -22,4 +22,10 @@ Ini merupakan project yang sederhana, hanya menambahkan beberapa baris kode pada
 10. PDF Arranger, Okular, dan Zathura sebagai perangkat lunak pembaca PDF.
 
 Sejujurnya untuk file manager, saya masih mencari alternatif selain dolphin dan Sigma (Σ)
-Bagi saya file manager ini masih terlalu berat (rakus RAM). 
+Bagi saya file manager ini masih terlalu berat (rakus RAM).
+
+#Project ketiga untuk saya adalah **sistem management file** menggunakan File Manager, Cat Fish, dan pendukung lain, yang bisa digunakan untuk memudahkan pencarian file berkas. 
+Ide untuk melakukan eksekusi pada project ini adalah penggunaan sistem client dan server. Client berfungsi untuk mengolah berkas mentah yang apabila sudah matang maka akan di upload di Server. Server bisa dalam bentuk cloud maupun intranet. 
+
+
+
